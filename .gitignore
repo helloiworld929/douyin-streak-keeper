@@ -1,0 +1,12 @@
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local secrets and debug output
+.env
+.env.*
+*.log
+debug/
